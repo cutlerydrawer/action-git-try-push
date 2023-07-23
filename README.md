@@ -7,7 +7,7 @@ The number of maximum tries is controllable via `tries` input.
 
 ```yaml
 - name: Try pushing
-  uses: dawidd6/action-git-try-push@v1
+  uses: greboid/action-git-try-push@v1
   with:
     # Optional, used for pushing
     token: ${{github.token}}
