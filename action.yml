@@ -1,6 +1,6 @@
 name: Git try push
 description: Try to push to remote repository specified number of times
-author: dawidd6
+author: greboid
 branding:
   icon: arrow-up-circle
   color: blue
