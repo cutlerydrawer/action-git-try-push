@@ -1,6 +1,6 @@
 name: Git push with retry
 description: Try to push to remote repository specified number of times
-author: greboid
+author: cutlerydrawer
 branding:
   icon: arrow-up-circle
   color: blue
