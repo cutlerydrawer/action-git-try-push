@@ -1,4 +1,4 @@
-name: Git try push
+name: Git push with retry
 description: Try to push to remote repository specified number of times
 author: greboid
 branding:
