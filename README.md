@@ -7,7 +7,7 @@ The number of maximum tries is controllable via `tries` input.
 
 ```yaml
 - name: Try pushing
-  uses: cutlerydrawer/action-git-try-push@v1
+  uses: cutlerydrawer/action-git-try-push@v2
   with:
     # Optional, used for pushing
     token: ${{github.token}}
